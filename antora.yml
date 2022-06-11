@@ -1,0 +1,7 @@
+name: michael-valdron-docs
+nav:
+  - modules/ROOT/nav.adoc
+start_page: ROOT:index.adoc
+title: Tech Docs
+version: "1.0.0"
+prerelease: -alpha

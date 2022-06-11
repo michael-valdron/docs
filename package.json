@@ -1,0 +1,13 @@
+{
+  "name": "docs.michaelvaldron.ca",
+  "version": "1.0.0",
+  "description": "My public doc pages.",
+  "main": "index.js",
+  "repository": "https://github.com/michael-valdron/docs.git",
+  "author": "Michael Valdron <michael.valdron@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@antora/cli": "3.0",
+    "@antora/site-generator": "3.0"
+  }
+}

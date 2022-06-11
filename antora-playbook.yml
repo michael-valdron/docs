@@ -1,0 +1,12 @@
+site:
+  title: Tech Docs
+  start_page: michael-valdron-docs::index.adoc
+content:
+  sources:
+  - url: ./
+    branches: HEAD
+    edit_url: https://github.com/michael-valdron/docs/edit/main/{path}
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
