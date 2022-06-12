@@ -1,0 +1,22 @@
+name: Build Antora
+on:
+  pull_request:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16
+
+      # Checkout repo
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install deps
+        run: yarn install
+      - name: Build deps
+        run: yarn build
