@@ -32,6 +32,6 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
           BRANCH: github-pages
-          FOLDER: build
+          FOLDER: build/site
           REPOSITORY_NAME: michael-valdron/docs
           CLEAN: true
