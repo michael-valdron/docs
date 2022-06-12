@@ -1,6 +1,6 @@
 site:
   title: Tech Docs
-  start_page: michael-valdron-docs::index.adoc
+  start_page: tech-docs::index.adoc
 content:
   sources:
   - url: ./

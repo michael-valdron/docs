@@ -1,4 +1,4 @@
-name: michael-valdron-docs
+name: tech-docs
 nav:
   - modules/ROOT/nav.adoc
 start_page: ROOT:index.adoc
