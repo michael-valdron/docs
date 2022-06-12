@@ -12,7 +12,7 @@
     "http-server": "^14.1.1"
   },
   "scripts": {
-    "build": "npx antora --fetch antora-playbook.yml",
+    "build": "npx antora --fetch antora-playbook.yml && touch build/site/.nojekyll",
     "serve": "http-server -p 8000 build/site"
   }
 }
