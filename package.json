@@ -8,9 +8,11 @@
   "license": "MIT",
   "devDependencies": {
     "@antora/cli": "3.0",
-    "@antora/site-generator": "3.0"
+    "@antora/site-generator": "3.0",
+    "http-server": "^14.1.1"
   },
   "scripts": {
-    "build": "npx antora --fetch antora-playbook.yml"
+    "build": "npx antora --fetch antora-playbook.yml",
+    "serve": "http-server -p 8000 build/site"
   }
 }
