@@ -1,3 +1,11 @@
 = My Doc Pages
 
 My public doc pages.
+
+= Getting Started
+
+== Prerequisites
+
+== Installation
+
+== Usage
