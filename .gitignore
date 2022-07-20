@@ -105,3 +105,6 @@ dist
 
 # antora output
 /build
+
+# VSCode settings
+.vscode
