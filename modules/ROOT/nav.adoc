@@ -1,2 +1,88 @@
 
 * xref:index.adoc[Home]
+* xref:operating-systems.adoc[Operating Systems]
+** xref:linux.adoc[Linux]
+*** Distros
+**** Fedora
+***** xref:fedora.adoc[35]
+// **** Rocky Linux
+// **** ArchLinux / Manjaro
+// **** Ubuntu
+// **** Linux Mint
+// **** PopOS!
+// **** elementryOS
+// *** Scripting
+// ** Windows
+// *** Windows 11
+// *** Windows 10
+// *** Windows 8
+// *** Legacy
+// **** Windows 7
+// **** Windows Visa
+// **** Windows XP
+// **** Windows 2000
+// **** Windows 98 SE
+// ** BSD
+// *** FreeBSD
+// *** OpenBSD
+// * Virtual Machines
+// ** KVM
+// ** VirtualBox
+// ** VMWare
+// *** Player
+// *** Workstation
+// ** HyperV
+// * Containers
+// ** Podman
+// ** Docker
+// * Emulators
+// ** Dolphin
+// ** Mesen
+// ** Snes9x
+// ** DOSBox
+// * Software
+// ** Waterfox
+// ** GIMP
+// ** Kdenlive
+// ** OBS Studio
+// ** VLC Player
+// ** Zotero
+// * Tools
+// ** Developer
+// *** Version Control
+// **** `git`
+// *** NodeJS
+// **** `node`
+// **** `yarn`
+// * Servers
+// ** Databases
+// * Programming
+// ** General
+// *** Programming Languages
+// **** Python
+// **** Golang
+// **** JavaScript
+// **** TypeScript
+// **** C#
+// **** C++
+// **** Java
+// **** Clojure
+// **** Scala
+// *** Markup Languages
+// **** HTML
+// **** XML
+// **** XAML
+// *** Query Languages
+// **** SQL
+// **** SPARQL
+// ** Web
+// *** Frontend
+// *** Backend
+// ** Mobile
+// ** Automation
+// ** Data Science
+// ** Security
+// ** Graphics
+// ** Artificial Intelligence
+// *** Classical
+// *** Machine Learning
